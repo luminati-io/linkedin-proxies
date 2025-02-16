@@ -67,3 +67,6 @@ Bright Data’s proxies are ethically sourced, and we comply with all relevant d
 
 ### Is there dedicated support available?
 Our support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our LinkedIn proxy network.
+
+Want to scrape LinkedIn? 
+Check out Bright Data's [**LinkedIn Scraper**](https://brightdata.com/products/web-scraper/linkedin). 
