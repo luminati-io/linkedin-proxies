@@ -1,6 +1,6 @@
 # Bright Data's LinkedIn Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/solutions/linkedin-proxy) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/solutions/linkedin-proxy) 
 
 ## Overview
 Experience seamless scraping with Bright Data's [LinkedIn proxies](https://brightdata.com/solutions/linkedin-proxy), designed to provide precise targeting, unmatched stability, and rapid response times.
